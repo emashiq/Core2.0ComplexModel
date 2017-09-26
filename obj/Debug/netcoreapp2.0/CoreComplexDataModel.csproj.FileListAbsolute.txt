@@ -1,0 +1,10 @@
+f:\CoreComplexDataModel\bin\Debug\netcoreapp2.0\CoreComplexDataModel.deps.json
+f:\CoreComplexDataModel\bin\Debug\netcoreapp2.0\CoreComplexDataModel.runtimeconfig.json
+f:\CoreComplexDataModel\bin\Debug\netcoreapp2.0\CoreComplexDataModel.runtimeconfig.dev.json
+f:\CoreComplexDataModel\bin\Debug\netcoreapp2.0\CoreComplexDataModel.dll
+f:\CoreComplexDataModel\bin\Debug\netcoreapp2.0\CoreComplexDataModel.pdb
+f:\CoreComplexDataModel\obj\Debug\netcoreapp2.0\CoreComplexDataModel.csproj.CoreCompileInputs.cache
+f:\CoreComplexDataModel\obj\Debug\netcoreapp2.0\CoreComplexDataModel.AssemblyInfoInputs.cache
+f:\CoreComplexDataModel\obj\Debug\netcoreapp2.0\CoreComplexDataModel.AssemblyInfo.cs
+f:\CoreComplexDataModel\obj\Debug\netcoreapp2.0\CoreComplexDataModel.dll
+f:\CoreComplexDataModel\obj\Debug\netcoreapp2.0\CoreComplexDataModel.pdb

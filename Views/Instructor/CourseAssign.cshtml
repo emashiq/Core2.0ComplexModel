@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Create";
+   List<CoreComplexDataModel.ViewModels.MultipleSelectCombo> vm= ViewData["Courses"] as List<CoreComplexDataModel.ViewModels.MultipleSelectCombo>;
+}
+
+<h2>Course Assign</h2>
+<h4>Instructor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CourseAssign">
+           @foreach (var item in vm) {
+               <li>@item.Id</li>
+           }
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
